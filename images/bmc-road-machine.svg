@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
+  <defs>
+    <linearGradient id="sky" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#2c3740"/>
+      <stop offset="100%" stop-color="#171b1f"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#sky)"/>
+  <g stroke="#d6ff3f" stroke-width="12" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="330" cy="650" r="160" stroke="#cfd4d8" stroke-width="10"/>
+    <circle cx="900" cy="650" r="160" stroke="#cfd4d8" stroke-width="10"/>
+    <path d="M330 650 L470 430 L645 430 L770 650 M470 430 L620 650 L770 650 M620 430 L640 650"/>
+    <path d="M470 430 L410 520 L560 520 M610 430 L740 520"/>
+    <path d="M430 520 L520 600"/>
+    <path d="M740 520 L820 600"/>
+    <path d="M630 430 L720 350 L840 350"/>
+    <path d="M720 350 L700 285"/>
+    <circle cx="720" cy="350" r="20" fill="#d6ff3f" stroke="none"/>
+  </g>
+  <g fill="#d6ff3f" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700">
+    <text x="80" y="120">BMC</text>
+  </g>
+</svg>
