@@ -27,6 +27,10 @@ body {
   font-family: "Work Sans", sans-serif;
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
+  display: block;
+  visibility: visible;
+  opacity: 1;
+  min-height: 100vh;
 }
 
 img {
