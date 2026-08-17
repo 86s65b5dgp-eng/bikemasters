@@ -1,5 +1,0 @@
-<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
-  <rect width="200" height="200" fill="#14171a"/>
-  <circle cx="100" cy="100" r="90" fill="none" stroke="#d6ff3f" stroke-width="8"/>
-  <text x="100" y="110" font-size="48" font-weight="bold" fill="#d6ff3f" text-anchor="middle" font-family="Oswald">BM</text>
-</svg>
